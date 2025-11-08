@@ -2,7 +2,7 @@
 
 **Práctica 1 - Desarrollo Web**  
 **Fecha de entrega:** 9 de noviembre de 2024  
-**Repositorio:** [Añadir enlace al repositorio de GitHub]
+**Repositorio:** [(https://github.com/AlejandroVinas/Web_tarea1)]
 
 ---
 
