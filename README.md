@@ -1593,47 +1593,6 @@ pm2 startup
 - Socket.IO with Express: [Official Guide](https://socket.io/get-started/chat)
 - Mongoose Best Practices: [MongoDB University](https://university.mongodb.com/)
 
-### Herramientas de Desarrollo
-- **Postman/Insomnia:** Probar API REST
-- **MongoDB Compass:** Visualizar base de datos
-- **Socket.IO Client Tool:** Probar WebSockets
-- **Chrome DevTools:** Debug del frontend
-
----
-
-## 🤝 Contribución
-
-### Cómo Contribuir
-1. Fork del repositorio
-2. Crear rama: `git checkout -b feature/nueva-funcionalidad`
-3. Commit: `git commit -m 'Añadir nueva funcionalidad'`
-4. Push: `git push origin feature/nueva-funcionalidad`
-5. Crear Pull Request
-
-### Estándares de Código
-- **ESLint:** Linter para JavaScript
-- **Prettier:** Formateo de código
-- **Commits:** Usar [Conventional Commits](https://www.conventionalcommits.org/)
-
----
-
-## 📄 Licencia
-
-Este proyecto es un trabajo académico para la asignatura de Desarrollo Web.
-
-**Universidad Europea del Atlántico**  
-Práctica 1 - Portal de Productos con Autenticación y Chat  
-Noviembre 2024
-
----
-
-## 👨‍💻 Autor
-
-**[Tu Nombre]**  
-- GitHub: [tu-usuario]
-- Email: [tu-email@uneatlantico.es]
-
----
 
 ## 🎓 Conclusiones
 
@@ -1665,15 +1624,8 @@ Este proyecto ha permitido:
 
 ---
 
-## 📞 Soporte
+**Enlace a Github del Proyecto** 
 
-Para problemas o preguntas:
-
-1. **Issues del repositorio:** [GitHub Issues](link-al-repo/issues)
-2. **Email del autor:** [tu-email]
-3. **Documentación:** Este README
-
----
 
 **Última actualización:** 8 de noviembre de 2024  
 **Versión:** 1.0.0  
